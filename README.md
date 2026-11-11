@@ -1,6 +1,7 @@
 # Olá, eu sou a Vitória 👋
 
-**Desenvolvedora de software focada em saúde.** Construo ferramentas para quem trabalha na beira
+**Desenvolvedora de software focada em saúde**, depois de 7 anos como técnica de enfermagem.
+Construo ferramentas para quem trabalha na beira
 do leito: interfaces rápidas de usar no meio do plantão, com a regra clínica dentro do código e
 cuidado com dado de paciente desde o banco de dados.
 
@@ -40,4 +41,6 @@ cefalocaudal, com a terminologia certa, pronta para o prontuário.
 ## 📫 Contato
 
 Estou aberta a oportunidades em healthtechs, hospitais e empresas de software para a saúde.
-Fale comigo pela [página de contato do Evoluta](https://evoluta-saude.vercel.app/contato).
+
+**[Meu portfólio](https://vitoria-cardozo.vercel.app)** ·
+[Contato pelo Evoluta](https://evoluta-saude.vercel.app/contato)
